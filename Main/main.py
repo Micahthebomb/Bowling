@@ -9,9 +9,3 @@ while Players == 0 :
 
 
 drawChart(Players)
-
-
-
-
-
-#TODO Seems to work but needs further testing and added functionality of third roll on tenth frame
