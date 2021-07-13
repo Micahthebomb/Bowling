@@ -1,4 +1,4 @@
-from Chart import drawChart,getScore
+from Chart import drawChart
 Players = 0
 
 while Players == 0 :
